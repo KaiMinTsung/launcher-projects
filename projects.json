@@ -1,7 +1,23 @@
 {
-  "version": "1.0.0",
-  "updatedAt": "2026-11-23T10:00:00Z",
+  "version": "1.1.0",
+  "updatedAt": "2026-11-23T12:00:00Z",
   "projects": [
+    {
+      "id": "cliphotkey",
+      "name": "ClipHotkey",
+      "slug": "cliphotkey",
+      "shortDescription": "Clipboard hotkey manager",
+      "description": "Manage your clipboard with customizable hotkeys.",
+      "category": "utilities",
+      "developer": "KaiMintsung",
+      "iconUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ClipHotkey",
+      "version": "1.0.0",
+      "price": 0,
+      "downloadUrl": "https://kaimintsung.github.io/launcher-projects/ClipHotkey-Setup.exe",
+      "platforms": ["windows"],
+      "fileSizeBytes": 5000000,
+      "sha256": ""
+    },
     {
       "id": "welcome-app",
       "name": "Welcome App",
