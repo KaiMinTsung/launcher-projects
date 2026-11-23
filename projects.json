@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-23T10:00:00Z",
+  "projects": [
+    {
+      "id": "welcome-app",
+      "name": "Welcome App",
+      "slug": "welcome-app",
+      "shortDescription": "A sample free app to test the launcher",
+      "description": "This is a free sample project. Replace this with your own apps by editing projects.json.",
+      "category": "utilities",
+      "developer": "You",
+      "iconUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Welcome",
+      "version": "1.0.0",
+      "price": 0,
+      "downloadUrl": "https://example.com/downloads/welcome-app.msi",
+      "platforms": ["windows"],
+      "fileSizeBytes": 10000000,
+      "sha256": ""
+    }
+  ]
+}
