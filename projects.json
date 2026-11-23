@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "updatedAt": "2026-11-23T12:00:00Z",
+  "version": "1.2.0",
+  "updatedAt": "2026-11-23T12:30:00Z",
   "projects": [
     {
       "id": "cliphotkey",
@@ -10,28 +10,12 @@
       "description": "Manage your clipboard with customizable hotkeys.",
       "category": "utilities",
       "developer": "KaiMintsung",
-      "iconUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ClipHotkey",
+      "iconUrl": "https://kaimintsung.github.io/launcher-projects/app-icon.png",
       "version": "1.0.0",
       "price": 0,
       "downloadUrl": "https://kaimintsung.github.io/launcher-projects/ClipHotkey-Setup.exe",
       "platforms": ["windows"],
       "fileSizeBytes": 5000000,
-      "sha256": ""
-    },
-    {
-      "id": "welcome-app",
-      "name": "Welcome App",
-      "slug": "welcome-app",
-      "shortDescription": "A sample free app to test the launcher",
-      "description": "This is a free sample project. Replace this with your own apps by editing projects.json.",
-      "category": "utilities",
-      "developer": "You",
-      "iconUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Welcome",
-      "version": "1.0.0",
-      "price": 0,
-      "downloadUrl": "https://example.com/downloads/welcome-app.msi",
-      "platforms": ["windows"],
-      "fileSizeBytes": 10000000,
       "sha256": ""
     }
   ]
